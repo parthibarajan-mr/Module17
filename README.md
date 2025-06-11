@@ -19,3 +19,12 @@ y column: Rename to Deposit.
 
 
 Note: Based on analysis and model metrcis, we learned that imbalanced dataset which is heavily weighted towards the unsuccessful marketing campaigns could not be used effectively to determine features which could provide best model performance.
+
+Recommendations for the Future
+Deeper Analysis of Underperforming Features: A more granular analysis could unravel why many features ended up having zero importance in the Decision Tree model and whether these features could be engineered differently to extract more predictive power.
+
+Addressing Class Imbalance: Techniques to handle class imbalance could improve model sensitivity towards the minority class, which is critical in marketing strategies aimed at increasing customer conversion rates.
+
+Extended Feature Engineering: More complex transformations and interactions between features could be explored to uncover hidden relationships that could improve model performance.
+
+Longitudinal Analysis: Considering the dataset spans multiple years, a temporal analysis to understand how customer behavior and economic conditions change over time could enhance the model's robustness and relevance to current scenarios.
