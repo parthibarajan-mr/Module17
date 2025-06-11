@@ -1,5 +1,6 @@
 # Module17
-Comparing Classifiers
+Comparing Classifiers:
+
 Overall based on purely training the models with no hyperparameter tuning the Logistic Regression model makes the most sense to utilize as the accuracy is only a little lower but the training time required is much faster.
 
 Business Understanding:
